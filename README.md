@@ -1,5 +1,5 @@
 ### Hi there 👋
-프론트 공부하고 있는 김주원 입니다. 
+프론트 공부하고 있는 김주원 입니다. <br>
 The harder you work, the more likely you can reeach the goal
 
 <div align=center>
