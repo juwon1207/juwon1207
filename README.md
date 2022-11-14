@@ -33,12 +33,11 @@ The harder you work, the more likely you can reeach the goal.
 <a href="https://www.instagram.com/wndjs_.1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style/badge&logo=Instagram&logoColor=white">
 <a href="https://www.facebook.com/profile.php?id=100017360131910" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style/badge&logo=Facebook&logoColor=white"></a>
   <a href="mailto:wndnjs060319@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wndnjs0160319@gmail.com"/></a>
-
-    
-<div align=center>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwon1207&layout=compact)
   
   <div align=center>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juwon1207&show_icons=true&theme=buefy)
+    
+    <div align=center>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwon1207&layout=compact)
