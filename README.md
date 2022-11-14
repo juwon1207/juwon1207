@@ -27,6 +27,7 @@ The harder you work, the more likely you can reeach the goal.
     
 ## 😄 My SNS 😄
 <a href="https://www.instagram.com/wndjs_.1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style/badge&logo=Instagram&logoColor=white">
+<a href="https://www.facebook.com/profile.php?id=100017360131910" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style/badge&logo=Facebook&logoColor=white"></a>
 
     
 <div align=center>
