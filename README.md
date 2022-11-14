@@ -1,4 +1,7 @@
 ### Hi there 👋
+프론트 공부하고 있는 김주원 입니다. 
+The harder you work, the more likely you can reeach the goal
+
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Juwon&fontSize=60)
@@ -21,6 +24,9 @@
   <img src="https://img.shields.io/badge/Visual Stdio-5C2D91?style/badge&logo=Visual-Studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style/badge&logo=Visual Studio Code&logoColor=white">
   <br><br>    
+    
+## 😄 My SNS 😄
+<a href="https://www.instagram.com/wndjs_.1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style/badge&logo=Instagram&logoColor=white">
 
     
 <div align=center>
