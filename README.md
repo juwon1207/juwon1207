@@ -8,12 +8,12 @@ The harder you work, the more likely you can reeach the goal.
     
   <div align=center>
     
-  ## 📚learning📚
+  ## 📚skill📚
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](github.com/HongSJae/todolist)
+    <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=yellow&logo=C&logoColor=white"/>
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/HongSJae/todolist)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](github.com/HongSJae/todolist)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/HongSJae/todolist)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](github.com/HongSJae/todolist)
     
 <br><br>
 
@@ -25,9 +25,14 @@ The harder you work, the more likely you can reeach the goal.
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style/badge&logo=Visual Studio Code&logoColor=white">
   <br><br>    
     
+##✏ Learning ✏
+  [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](github.com/HongSJae/todolist)
+    <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=yellow&logo=C&logoColor=white"/>
+    
 ## 😄 My SNS 😄
 <a href="https://www.instagram.com/wndjs_.1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style/badge&logo=Instagram&logoColor=white">
 <a href="https://www.facebook.com/profile.php?id=100017360131910" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style/badge&logo=Facebook&logoColor=white"></a>
+  <a href="mailto:wndnjs060319@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wndnjs0160319@gmail.com"/></a>
 
     
 <div align=center>
