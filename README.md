@@ -1,5 +1,5 @@
 ### Hi there 👋
-프론트 공부하고 있는 김주원 입니다. <br>
+프론트엔드 공부하고 있는 김주원 입니다. 성실한 웹 개발자가 되는 것이 꿈 입니다.<br>
 The harder you work, the more likely you can reeach the goal.
 
 <div align=center>
