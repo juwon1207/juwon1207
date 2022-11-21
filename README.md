@@ -9,7 +9,6 @@ The harder you work, the more likely you can reeach the goal.
   <div align=center>
     
   ## 📚skills📚
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](github.com/HongSJae/todolist)
     <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=yellow&logo=C&logoColor=white"/>
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/HongSJae/todolist)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](github.com/HongSJae/todolist)
