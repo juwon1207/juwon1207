@@ -36,5 +36,3 @@ The harder you work, the more likely you can reeach the goal.
   <div align=center>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juwon1207&show_icons=true&theme=buefy)
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwon1207&layout=compact)
